@@ -28,4 +28,4 @@ RESST (REservoir Sustainable Sediment Tool) brings together case studies, method
 - **River-Corridor Compilation**: trace or select along a river, compile associated sites and literature, export consolidated results.
 - **Thematic Review**: apply controlled-vocabulary filters (e.g., Gravel, Fish Passage), compare Site-linked vs. General literature, export curated references.
 
-For local testing, open `index.html` in a browser or serve the repository with a static file server; the page will display the redirect screen before navigating to the configured Experience Builder URL.
+For testing, open "https://usace-wrises.github.io/RESST".
