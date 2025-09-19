@@ -1,6 +1,9 @@
 # Reservoir Sustainable Sediment Tool (RESST)
 
-This repository drives a GitHub Pages site that forwards visitors to the RESST ArcGIS Web Experience Builder application. Opening the published Pages URL will redirect straight to the live web app so users can explore the tool without extra navigation.
+This repository drives a GitHub Pages site that forwards visitors to the RESST ArcGIS Web Experience Builder application. Opening the published Pages URL below redirects to the web app.
+
+https://usace-wrises.github.io/RESST
+
 
 ## Purpose
 
@@ -27,5 +30,3 @@ RESST (REservoir Sustainable Sediment Tool) brings together case studies, method
 - **Regional (HUC) Screening**: toggle HUC layers, spatially select relevant sites, export the filtered dataset.
 - **River-Corridor Compilation**: trace or select along a river, compile associated sites and literature, export consolidated results.
 - **Thematic Review**: apply controlled-vocabulary filters (e.g., Gravel, Fish Passage), compare Site-linked vs. General literature, export curated references.
-
-You can try the web app at https://usace-wrises.github.io/RESST
