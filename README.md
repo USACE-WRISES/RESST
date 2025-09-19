@@ -2,7 +2,7 @@
 
 This repository drives a GitHub Pages site that forwards visitors to the RESST ArcGIS Web Experience Builder application. The URL below redirects to the web app.
 
-https://usace-wrises.github.io/RESST
+https://usace-wrises.github.io/resst
 
 
 ## Purpose
