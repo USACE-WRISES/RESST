@@ -1,4 +1,4 @@
-# RESST � Reservoir Sustainable Sediment Tool
+# Reservoir Sustainable Sediment Tool (RESST)
 
 This repository powers a minimal GitHub Pages site that forwards visitors to the RESST ArcGIS Web Experience Builder application. Opening the published Pages URL will redirect straight to the live web app so users can explore the tool without extra navigation.
 
