@@ -16,7 +16,7 @@ RESST (REservoir Sustainable Sediment Tool) brings together case studies, method
 - Keyword filters backed by controlled vocabularies.
 - Selected data panel summarizing site details, linked literature, and NID information when available.
 - Top-bar tools for HUC layers, bookmarks, spatial selections, and role-based Add/Modify Data actions.
-- One-click exports to CSV or Excel for downstream analysis.
+- One-click exports to CSV or Excel for analysis.
 
 ## Data model
 
