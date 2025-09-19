@@ -7,7 +7,7 @@ https://usace-wrises.github.io/RESST
 
 ## Purpose
 
-RESST (REservoir Sustainable Sediment Tool) brings together case studies, methods, and ecological/sediment literature related to sustainable sediment release. It mirrors real planning steps so teams can assess site context, scan watershed information, and surface geographic or analytical gaps. The browser-based experience supports exportable results, enabling fast and defensible decisions.
+RESST (REservoir Sustainable Sediment Tool) brings together case studies, methods, and ecological/sediment literature related to sustainable sediment release. 
 
 ## Core features
 
@@ -29,4 +29,4 @@ RESST (REservoir Sustainable Sediment Tool) brings together case studies, method
 - **Targeted Reservoir Analysis**: search or zoom to a site, review Site Literature, export findings for reporting.
 - **Regional (HUC) Screening**: toggle HUC layers, spatially select relevant sites, export the filtered dataset.
 - **River-Corridor Compilation**: trace or select along a river, compile associated sites and literature, export consolidated results.
-- **Thematic Review**: apply controlled-vocabulary filters (e.g., Gravel, Fish Passage), compare Site-linked vs. General literature, export curated references.
+- **Thematic Review**: apply keyword filters (e.g., Gravel, Fish Passage), compare Site-linked vs. General literature, export curated references.
